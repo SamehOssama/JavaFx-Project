@@ -13,6 +13,17 @@ The aim of this project is to develop a software tool that can read Simulink MDL
 
 ---
 
+## Team members
+|#|Name|ID|
+|-|-----------|-----------|
+|1|Sameh Ossana Nabil Nazir Koleid|2000379|
+|2|Carol Maged Victor Amin|2001072|
+|3|Jasmine Mamdouh Mostafa Ibrahim|2000016|
+|4|Mariz Youssef Abd Elmessih Gerges|2001122|
+|5|Sarah Sameh Noshy Basily|2001635|
+
+---
+
 ## File structure:
 The code consists of 7 files under `Project/src/main/java/com/project/`:
 |File Name|Description|
