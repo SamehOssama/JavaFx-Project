@@ -62,6 +62,7 @@ Drawing the centered squares, inserting 3 "+" through passing no.3 to the method
 Drawing the centered squares, inserting 1/z in the middle
 
 5) Scope Block:
+
 Drawing the centered squaers, then drawing a rectangle inside them and rounding the corners
 
 
