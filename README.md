@@ -17,7 +17,7 @@ The aim of this project is to develop a software tool that can read Simulink MDL
 The code consists of 7 files under `Project/src/main/java/com/project/`:
 |File Name|Description|
 | -----------|-----------|
-|Add.java|Contains the main function of the code.|
+|App.java|Contains the main function of the code.|
 |Shapes.java|Contains the 5 different block shapes.|
 |Block.java|Contains the blocks parsing classes.|
 |MyLine.java|Contains the lines parsing classes.|
