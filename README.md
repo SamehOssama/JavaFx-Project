@@ -1,5 +1,5 @@
 # CSE231s: Advanced Computer Programming
-## Exception handling assignment
+## Final project (JavaFX GUI)
 The aim of this project is to develop a software tool that can read Simulink MDL files and display their contents in a user-friendly way using a Java-based graphical user interface (GUI).
 
 
@@ -24,6 +24,8 @@ The code consists of 7 files under `Project/src/main/java/com/project/`:
 |Branch.java|Contains the branches parsing classes.|
 |FxHelper.arxml|Functions as the API between the parser and the gui.|
 |Example.mdl|The file with the Simulink data.|
+
+---
 
 ## Code walkthrough:
 
@@ -65,6 +67,7 @@ Drawing the centered squares, inserting 1/z in the middle
 
 Drawing the centered squaers, then drawing a rectangle inside them and rounding the corners
 
+---
 
 ## GUI Output:
 
